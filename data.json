@@ -10,7 +10,7 @@
         "author": "Алексей Гончаров и КУЛЬТ-УРАЛ"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/jZ34evj6GQk/hqdefault.jpg"
   },
   {
@@ -24,7 +24,7 @@
         "author": "Алексей Гончаров и КУЛЬТ-УРАЛ"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/prj9Q0Zt8y8/hqdefault.jpg"
   },
   {
@@ -38,7 +38,7 @@
         "author": "Алексей Гончаров и КУЛЬТ-УРАЛ"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/prj9Q0Zt8y8/hqdefault.jpg"
   },
   {
@@ -46,7 +46,7 @@
     "url": "https://www.youtube.com/watch?v=3qfaAgsuWrI",
     "publishedAt": "2026-01-15",
     "video": [],
-    "type": "other",
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/KBwnLBgRUgs/hqdefault.jpg"
   },
   {
@@ -54,7 +54,7 @@
     "url": "https://www.youtube.com/watch?v=WEJSS2-bPMg",
     "publishedAt": "2026-01-11",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/KBwnLBgRUgs/hqdefault.jpg"
   },
   {
@@ -68,7 +68,7 @@
         "author": "МИНАЕВ LIVE"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/vYxjTDoPC94/hqdefault.jpg"
   },
   {
@@ -82,7 +82,7 @@
         "author": "СОЮЗ. Аудиокниги"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/2vIvmS8vXHk/hqdefault.jpg"
   },
   {
@@ -106,7 +106,7 @@
         "author": "Роман Юнеман"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/YR8UnioEMu4/hqdefault.jpg"
   },
   {
@@ -120,16 +120,16 @@
         "author": "SUREN"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/g4Dw1OSMkGc/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/5n1k6DBz6E4/hqdefault.jpg"
   },
   {
     "title": "Проходим Frostpunk: DLC «Last Autumn» №3",
     "url": "https://www.youtube.com/watch?v=TMcnDu-EaSI",
     "publishedAt": "2025-12-27",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/5n1k6DBz6E4/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/TMcnDu-EaSI/hqdefault.jpg"
   },
   {
     "title": "Разбираем ролики про Францию и рыночную экономику",
@@ -147,7 +147,7 @@
         "author": "Капитал Очевидность Канал"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/jPYyW5LBd0A/hqdefault.jpg"
   },
   {
@@ -161,7 +161,7 @@
         "author": "Продолжение следует"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/Y7l3hohTBiA/hqdefault.jpg"
   },
   {
@@ -175,7 +175,7 @@
         "author": "СОЮЗ. Аудиокниги"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/2vIvmS8vXHk/hqdefault.jpg"
   },
   {
@@ -189,7 +189,7 @@
         "author": "Tamara Eidelman"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/mJDzeX2fx04/hqdefault.jpg"
   },
   {
@@ -203,7 +203,7 @@
         "author": "Tamara Eidelman"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/mJDzeX2fx04/hqdefault.jpg"
   },
   {
@@ -217,7 +217,7 @@
         "author": "От Адама до Потсдама"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/VjKKqPywi4M/hqdefault.jpg"
   },
   {
@@ -231,7 +231,7 @@
         "author": "Туземный совет трудящихся"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/LYHX6M1Le0c/hqdefault.jpg"
   },
   {
@@ -245,7 +245,7 @@
         "author": "Туземный совет трудящихся"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/LYHX6M1Le0c/hqdefault.jpg"
   },
   {
@@ -259,7 +259,7 @@
         "author": "Туземный совет трудящихся"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/LYHX6M1Le0c/hqdefault.jpg"
   },
   {
@@ -267,7 +267,7 @@
     "url": "https://www.youtube.com/watch?v=83z0K-x0daU",
     "publishedAt": "2025-11-12",
     "video": [],
-    "type": "other",
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/qbJazswwx_A/hqdefault.jpg"
   },
   {
@@ -281,7 +281,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/9dULs7w8b-0/hqdefault.jpg"
   },
   {
@@ -295,7 +295,7 @@
         "author": "Туземный совет трудящихся"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/LYHX6M1Le0c/hqdefault.jpg"
   },
   {
@@ -309,7 +309,7 @@
         "author": "Вестник Бури"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/N6nEjvMB4fo/hqdefault.jpg"
   },
   {
@@ -323,7 +323,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/rvwm7AUt9nE/hqdefault.jpg"
   },
   {
@@ -337,7 +337,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/rvwm7AUt9nE/hqdefault.jpg"
   },
   {
@@ -345,8 +345,8 @@
     "url": "https://www.youtube.com/watch?v=yf3qofGTocQ",
     "publishedAt": "2025-09-30",
     "video": [],
-    "type": "other",
-    "thumbnail": "https://img.youtube.com/vi/Fo8SmsV1m_4/hqdefault.jpg"
+    "type": "другое",
+    "thumbnail": "https://img.youtube.com/vi/yf3qofGTocQ/hqdefault.jpg"
   },
   {
     "title": "Смотрим дебаты Сафронова и Ватоадмина",
@@ -359,7 +359,7 @@
         "author": "Либертарианская партия России (ЛПР)"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/E6TZxXUKq9Q/hqdefault.jpg"
   },
   {
@@ -373,7 +373,7 @@
         "author": "Видим Как Продают Билеты..."
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/KfqAd3EG-ZM/hqdefault.jpg"
   },
   {
@@ -387,7 +387,7 @@
         "author": "Видим Как Продают Билеты..."
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/KfqAd3EG-ZM/hqdefault.jpg"
   },
   {
@@ -395,8 +395,8 @@
     "url": "https://www.youtube.com/watch?v=kC7A9DN2tqY",
     "publishedAt": "2025-09-15",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/xX4grxDZwts/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/kC7A9DN2tqY/hqdefault.jpg"
   },
   {
     "title": "Смотрим: «Бесконечное лето: ИДИОТИЗМ, ГРАФОМАНИЯ, ОЧЕРЕДНАЯ ИСТОРИЧЕСКАЯ ЛОЖЬ feat. Сергей Агарков»",
@@ -409,7 +409,7 @@
         "author": "NicoTulchans"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/ML9KjQ9Kyvw/hqdefault.jpg"
   },
   {
@@ -423,7 +423,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/HXtS_lVc1pk/hqdefault.jpg"
   },
   {
@@ -437,7 +437,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/HXtS_lVc1pk/hqdefault.jpg"
   },
   {
@@ -451,7 +451,7 @@
         "author": "Рабкор"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/J33KwKJJgic/hqdefault.jpg"
   },
   {
@@ -465,7 +465,7 @@
         "author": "Заяц"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/ToIhjW_8_CQ/hqdefault.jpg"
   },
   {
@@ -479,7 +479,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/JERy3qBpA2k/hqdefault.jpg"
   },
   {
@@ -493,7 +493,7 @@
         "author": "Видим Как Продают Билеты..."
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/4afykM8-XoA/hqdefault.jpg"
   },
   {
@@ -517,7 +517,7 @@
         "author": "Олег Ткач"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/iCI6es9G0oo/hqdefault.jpg"
   },
   {
@@ -531,7 +531,7 @@
         "author": "Sad But True"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/XlRKhTd7GZc/hqdefault.jpg"
   },
   {
@@ -560,7 +560,7 @@
         "author": "IFK"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/jT2VKMjR6z8/hqdefault.jpg"
   },
   {
@@ -574,7 +574,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/qzSVpIQ21mo/hqdefault.jpg"
   },
   {
@@ -588,7 +588,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/qzSVpIQ21mo/hqdefault.jpg"
   },
   {
@@ -602,7 +602,7 @@
         "author": "Easy History"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/E4J9sg431lw/hqdefault.jpg"
   },
   {
@@ -616,7 +616,7 @@
         "author": "Pesetz"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/tBUZ9Xvuxrs/hqdefault.jpg"
   },
   {
@@ -630,7 +630,7 @@
         "author": "С чего начинается"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/8l6A01rozko/hqdefault.jpg"
   },
   {
@@ -644,7 +644,7 @@
         "author": "Свет Прогресса"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/VURnH0iOSFI/hqdefault.jpg"
   },
   {
@@ -658,7 +658,7 @@
         "author": "Свет Прогресса"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/VURnH0iOSFI/hqdefault.jpg"
   },
   {
@@ -672,7 +672,7 @@
         "author": "Историк антифашист"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/WVDP5ZFzcIU/hqdefault.jpg"
   },
   {
@@ -686,7 +686,7 @@
         "author": "varlamov"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/6uZEXp5Sz9k/hqdefault.jpg"
   },
   {
@@ -700,7 +700,7 @@
         "author": "Artur Sharifov"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/XxzaUqe4UR4/hqdefault.jpg"
   },
   {
@@ -708,7 +708,7 @@
     "url": "https://www.youtube.com/watch?v=VwbfPt7Og-E",
     "publishedAt": "2025-06-20",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/eEPQmnjCLjo/hqdefault.jpg"
   },
   {
@@ -722,7 +722,7 @@
         "author": "Максим Кац"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/RR0WvtX4o3o/hqdefault.jpg"
   },
   {
@@ -736,7 +736,7 @@
         "author": "BAZASLAV"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/gjylOYQe6Nw/hqdefault.jpg"
   },
   {
@@ -744,7 +744,7 @@
     "url": "https://www.youtube.com/watch?v=HmkOvTZdCtY",
     "publishedAt": "2025-06-03",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/Hd5nBgWOFHI/hqdefault.jpg"
   },
   {
@@ -758,7 +758,7 @@
         "author": "New Deal — Экономика и Дефициты"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/WHzK9LevKVc/hqdefault.jpg"
   },
   {
@@ -772,7 +772,7 @@
         "author": "New Deal — Экономика и Дефициты"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/WHzK9LevKVc/hqdefault.jpg"
   },
   {
@@ -786,7 +786,7 @@
         "author": "New Deal — Экономика и Дефициты"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/WHzK9LevKVc/hqdefault.jpg"
   },
   {
@@ -800,7 +800,7 @@
         "author": "Советский"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/GlqiZTHL55k/hqdefault.jpg"
   },
   {
@@ -808,7 +808,7 @@
     "url": "https://www.youtube.com/watch?v=ZOQxpPTIOSQ",
     "publishedAt": "2025-05-23",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/DgoWXoUJQtk/hqdefault.jpg"
   },
   {
@@ -822,7 +822,7 @@
         "author": "Простые числа"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/bAeFsORHNZY/hqdefault.jpg"
   },
   {
@@ -836,7 +836,7 @@
         "author": "Good Times Bad Times на русском"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/GbUutxIkht4/hqdefault.jpg"
   },
   {
@@ -855,7 +855,7 @@
         "author": "Нейронаука с Владимиром Алиповым"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/88jFf6sPKQg/hqdefault.jpg"
   },
   {
@@ -863,7 +863,7 @@
     "url": "https://www.youtube.com/watch?v=pSpzW9H6Dx0",
     "publishedAt": "2025-05-15",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/vzbMINiFzFg/hqdefault.jpg"
   },
   {
@@ -892,7 +892,7 @@
         "author": "Арсен Арутюнян"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/cR5EKxgyuDQ/hqdefault.jpg"
   },
   {
@@ -906,7 +906,7 @@
         "author": "Минута в минуту"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/7GnjB5pL73E/hqdefault.jpg"
   },
   {
@@ -920,7 +920,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/u6Ng0N26MGk/hqdefault.jpg"
   },
   {
@@ -934,7 +934,7 @@
         "author": "hrendyabliki"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/RwacUQnZ6lk/hqdefault.jpg"
   },
   {
@@ -948,7 +948,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/T3-VlQu3iRM/hqdefault.jpg"
   },
   {
@@ -962,7 +962,7 @@
         "author": "MZ"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/tY0uJiHjdfI/hqdefault.jpg"
   },
   {
@@ -976,7 +976,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/q53DF6ySOZg/hqdefault.jpg"
   },
   {
@@ -990,7 +990,7 @@
         "author": "Гроза / Николай Росов"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/cMDK_4-ROUs/hqdefault.jpg"
   },
   {
@@ -998,7 +998,7 @@
     "url": "https://www.youtube.com/watch?v=MaLzvUf64ZI",
     "publishedAt": "2025-04-05",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/Nt_uUs7P2Uw/hqdefault.jpg"
   },
   {
@@ -1012,7 +1012,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/4eUS8trd_yI/hqdefault.jpg"
   },
   {
@@ -1020,7 +1020,7 @@
     "url": "https://www.youtube.com/watch?v=ZzsnSTGtIEk",
     "publishedAt": "2025-03-27",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/dztWae5rg2M/hqdefault.jpg"
   },
   {
@@ -1044,7 +1044,7 @@
         "author": "TAGGED22 И ТОЧКА."
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/Ze0UDb3iTBs/hqdefault.jpg"
   },
   {
@@ -1052,7 +1052,7 @@
     "url": "https://www.youtube.com/watch?v=LutTYJ_CecU",
     "publishedAt": "2025-03-25",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/c0Nt5n3VCf4/hqdefault.jpg"
   },
   {
@@ -1066,7 +1066,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/s48b9B5gd88/hqdefault.jpg"
   },
   {
@@ -1080,7 +1080,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/s48b9B5gd88/hqdefault.jpg"
   },
   {
@@ -1088,7 +1088,7 @@
     "url": "https://www.youtube.com/watch?v=3mNbERYpsj4",
     "publishedAt": "2025-03-17",
     "video": [],
-    "type": "other",
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/rqXz49XnSEQ/hqdefault.jpg"
   },
   {
@@ -1096,7 +1096,7 @@
     "url": "https://www.youtube.com/watch?v=L8QAoimPIJA",
     "publishedAt": "2025-03-14",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/rqXz49XnSEQ/hqdefault.jpg"
   },
   {
@@ -1110,7 +1110,7 @@
         "author": "Dario"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/lRJjpOXeglU/hqdefault.jpg"
   },
   {
@@ -1124,7 +1124,7 @@
         "author": "Dario"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/lRJjpOXeglU/hqdefault.jpg"
   },
   {
@@ -1143,7 +1143,7 @@
         "author": "Diodand"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/q_v9MFacdF0/hqdefault.jpg"
   },
   {
@@ -1151,7 +1151,7 @@
     "url": "https://www.youtube.com/watch?v=ctxAryNCR18",
     "publishedAt": "2025-03-06",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/xIpoF3AW0io/hqdefault.jpg"
   },
   {
@@ -1165,7 +1165,7 @@
         "author": "Slaweniska dela"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/2X-372NPsTY/hqdefault.jpg"
   },
   {
@@ -1179,7 +1179,7 @@
         "author": "Стас Ай, Как Просто!"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://sun112-1.userapi.com/qi8tbb2J2-0FDQ50x3jadT8_tsjGnvrrPZiulQ/4fn5kLAi_BQ.jpg"
   },
   {
@@ -1193,7 +1193,7 @@
         "author": "Стас Ай, Как Просто!"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://sun112-1.userapi.com/qi8tbb2J2-0FDQ50x3jadT8_tsjGnvrrPZiulQ/4fn5kLAi_BQ.jpg"
   },
   {
@@ -1207,7 +1207,7 @@
         "author": "Стас Ай, Как Просто!"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://sun112-2.userapi.com/n3AtS1UGnvTlJayPG2b9V_x91dsBnZLuXV3CoQ/TU0b1voD-To.jpg"
   },
   {
@@ -1221,7 +1221,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/f5nbT4xQqwI/hqdefault.jpg"
   },
   {
@@ -1235,7 +1235,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/f5nbT4xQqwI/hqdefault.jpg"
   },
   {
@@ -1249,7 +1249,7 @@
         "author": "ЖОРА"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/I4EMVrFb_OQ/hqdefault.jpg"
   },
   {
@@ -1263,7 +1263,7 @@
         "author": "Александр Штефанов"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/Llk1HTYoSC8/hqdefault.jpg"
   },
   {
@@ -1277,7 +1277,7 @@
         "author": "Александр Штефанов"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/Llk1HTYoSC8/hqdefault.jpg"
   },
   {
@@ -1291,7 +1291,7 @@
         "author": "Файб"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/HnDXrbcP0x8/hqdefault.jpg"
   },
   {
@@ -1305,7 +1305,7 @@
         "author": "YaleCourses"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/BDqvzFY72mg/hqdefault.jpg"
   },
   {
@@ -1319,7 +1319,7 @@
         "author": "Арсен Арутюнян"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/57UkJc6KeI0/hqdefault.jpg"
   },
   {
@@ -1333,7 +1333,7 @@
         "author": "Перехват управления"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/XtlfT-CtTxk/hqdefault.jpg"
   },
   {
@@ -1347,7 +1347,7 @@
         "author": "Культпросвет"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/zZBAKgBAzI0/hqdefault.jpg"
   },
   {
@@ -1355,7 +1355,7 @@
     "url": "https://www.youtube.com/watch?v=jD0mIZTCDLc",
     "publishedAt": "2025-01-25",
     "video": [],
-    "type": "other",
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/Cw5ULZAbaxs/hqdefault.jpg"
   },
   {
@@ -1364,13 +1364,18 @@
     "publishedAt": "2025-01-13",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=uEw2iF-YJjY",
+        "title": "Аральское море высыхало и раньше",
+        "author": "Красная Юрта"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=fRdmQnsmmuw",
+        "title": "Какой баклан сочинил приказ Ежова №00447?",
+        "author": "Студия имени Молотова"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/K07wGCe9Rbo/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/uEw2iF-YJjY/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ КУБИНСКИЙ РАКЕТНЫЙ КРИЗИС, ЧАСТЬ 2 РЕАКЦИЯ RuRoomREC",
@@ -1383,7 +1388,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/AU-PW1f9VP0/hqdefault.jpg"
   },
   {
@@ -1397,7 +1402,7 @@
         "author": "RuRoomREC"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/l_BT2QUmqGo/hqdefault.jpg"
   },
   {
@@ -1406,13 +1411,13 @@
     "publishedAt": "2025-01-08",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=8xaqVf1B3Fg",
+        "title": "The Bolshevik War Against the Soviets",
+        "author": "Noj Rants"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/rX2LukBo4nE/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/8xaqVf1B3Fg/hqdefault.jpg"
   },
   {
     "title": "ДОСМАТРИВАЕМ РОЛИКИ С КАНАЛА VMMMP",
@@ -1420,13 +1425,18 @@
     "publishedAt": "2025-01-07",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=6q_JtUKLQRY",
+        "title": "НЕОСОВЕТСКОЕ ВРАНЬЕ | ОБЗОР СОВЕТСКОГО БЛОГЕРА",
+        "author": "BAZASLAV"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=bmDadaV-R7s",
+        "title": "РАЗОБЛАЧЕНИЕ СОВЕТСКОГО МИФА О СТАЛИНСКОМ ПОРЯДКЕ | ПРИ СТАЛИНЕ БЫЛ СТРАШНЫЙ БАРДАК",
+        "author": "BAZASLAV"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/Rt4DQL8LfoU/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/6q_JtUKLQRY/hqdefault.jpg"
   },
   {
     "title": "СОВЕТСКАЯ ИНДУСТРИАЛИЗАЦИЯ | ВСЯ ПРАВДА О ТОРГСИНЕ | РЕАКЦИЯ НА VMMMP",
@@ -1434,13 +1444,13 @@
     "publishedAt": "2025-01-07",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=18Y9OfdjCp8",
+        "title": "СОВЕТСКАЯ ИНДУСТРИАЛИЗАЦИЯ | ВСЯ ПРАВДА О ТОРГСИНЕ",
+        "author": "BAZASLAV"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/FUjpSOYEVXk/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/18Y9OfdjCp8/hqdefault.jpg"
   },
   {
     "title": "ТОЦКОЕ ВОЙСКОВОЕ УЧЕНИЕ И ТАКТИЧЕСКОЕ ЯДЕРНОЕ ОРУЖИЕ | СМОТРИМ RUROOMREC",
@@ -1448,29 +1458,29 @@
     "publishedAt": "2025-01-05",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=9V1fq0B0iJo",
+        "title": "Тоцкое войсковое учение и тактическое ядерное оружие. Документальный фильм. RuRoomREC",
+        "author": "RuRoomREC"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/haILKP_Laa0/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/9V1fq0B0iJo/hqdefault.jpg"
   },
   {
     "title": "БЕЖЕНЦЫ | FROSTPUNK",
     "url": "https://www.youtube.com/watch?v=j68583jWP6g",
     "publishedAt": "2025-01-03",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/haILKP_Laa0/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/j68583jWP6g/hqdefault.jpg"
   },
   {
     "title": "НОВОГОДНИЙ СТРИМ 2024 | ПОДВОДИМ ИТОГИ ГОДА И НАШЕЙ РАБОТЫ",
     "url": "https://www.youtube.com/watch?v=AWcgml9Bv04",
     "publishedAt": "2024-12-30",
     "video": [],
-    "type": "other",
-    "thumbnail": "https://img.youtube.com/vi/haILKP_Laa0/hqdefault.jpg"
+    "type": "другое",
+    "thumbnail": "https://img.youtube.com/vi/AWcgml9Bv04/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ СОЛОНИНА О БЛОКАДЕ ЛЕНИНГРАДА 2",
@@ -1478,27 +1488,13 @@
     "publishedAt": "2024-12-18",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=plEaSn8YC2w",
+        "title": "Марк Солонин о Блокаде Ленинграда Часть 1",
+        "author": "Mark Solonin"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/_ZBBntq40xg/hqdefault.jpg"
-  },
-  {
-    "title": "СМОТРИМ СОЛОНИНА О БЛОКАДЕ ЛЕНИНГРАДА 2",
-    "url": "https://www.youtube.com/watch?v=2lTfW4gwRzQ",
-    "publishedAt": "2024-12-18",
-    "video": [
-      {
-        "url": "",
-        "title": "",
-        "author": ""
-      }
-    ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/2lTfW4gwRzQ/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/plEaSn8YC2w/hqdefault.jpg"
   },
   {
     "title": "РОЛИК ПРО НАЦИЗМ(КОРОТКО) | РЕАКЦИЯ НА КУЧИНСКИЙ",
@@ -1506,13 +1502,13 @@
     "publishedAt": "2024-12-17",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=o-2lXkrEmjA",
+        "title": "Ролик про нацизм(коротко)",
+        "author": "КУЧИНСКИЙ"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/eY6w2yqapMo/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/o-2lXkrEmjA/hqdefault.jpg"
   },
   {
     "title": "СТРАТЕГИЯ ГАРАНТИРОВАННОЙ НЕ ПОБЕДЫ | РЕАКЦИЯ НА СТРАТЕГ ДИВАННОГО ЛЕГИОНА",
@@ -1520,13 +1516,18 @@
     "publishedAt": "2024-12-12",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=sg7Jy2OjPY4",
+        "title": "Стратегия гарантированной не победы",
+        "author": "Стратег Диванного Легиона"
+      },
+      {
+        "url": "https://newdeal.ru/articles/policy/program",
+        "title": "Программа Новый курс",
+        "author": "Новый курс"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/oDAk5ipoO2M/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/sg7Jy2OjPY4/hqdefault.jpg"
   },
   {
     "title": "КОЛЫМА | СМОТРИМ ДУДЯ",
@@ -1534,20 +1535,20 @@
     "publishedAt": "2024-12-10",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=oo1WouI38rQ",
+        "title": "Колыма – родина нашего страха / вДудь",
+        "author": "вДудь"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/y58K2e91w-s/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/oo1WouI38rQ/hqdefault.jpg"
   },
   {
     "title": "ОСТАЁМСЯ ЛЮДЬМИ | FROSTPUNK",
     "url": "https://www.youtube.com/watch?v=fMyWVScT7JY",
     "publishedAt": "2024-12-05",
     "video": [],
-    "type": "game",
+    "type": "игры",
     "thumbnail": "https://img.youtube.com/vi/y58K2e91w-s/hqdefault.jpg"
   },
   {
@@ -1556,12 +1557,17 @@
     "publishedAt": "2024-12-03",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=jFBM8D7uxo8",
+        "title": "СТАС ВАСИЛЬЕВ ПРОТИВ ОЛЕГА КОМОЛОВА: ВОЙНА И МИР, КОММУНИЗМ И ФАШИЗМ, ОЛИГАРХИ И ПАТРИОТЫ",
+        "author": "Metametrica"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Wn72PhBIb04",
+        "title": "Дебаты со Стасом Васильевым. Послесловие // Олег Комолов",
+        "author": "Простые числа"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/FBNm0SnBIpw/hqdefault.jpg"
   },
   {
@@ -1570,12 +1576,12 @@
     "publishedAt": "2024-11-30",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=jFBM8D7uxo8",
+        "title": "СТАС ВАСИЛЬЕВ ПРОТИВ ОЛЕГА КОМОЛОВА: ВОЙНА И МИР, КОММУНИЗМ И ФАШИЗМ, ОЛИГАРХИ И ПАТРИОТЫ",
+        "author": "Metametrica"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/s1kyqS52LJM/hqdefault.jpg"
   },
   {
@@ -1584,12 +1590,12 @@
     "publishedAt": "2024-11-28",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=jFBM8D7uxo8",
+        "title": "СТАС ВАСИЛЬЕВ ПРОТИВ ОЛЕГА КОМОЛОВА: ВОЙНА И МИР, КОММУНИЗМ И ФАШИЗМ, ОЛИГАРХИ И ПАТРИОТЫ",
+        "author": "Metametrica"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/ST2NsIQ56WQ/hqdefault.jpg"
   },
   {
@@ -1598,13 +1604,13 @@
     "publishedAt": "2024-11-28",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=jFBM8D7uxo8",
+        "title": "СТАС ВАСИЛЬЕВ ПРОТИВ ОЛЕГА КОМОЛОВА: ВОЙНА И МИР, КОММУНИЗМ И ФАШИЗМ, ОЛИГАРХИ И ПАТРИОТЫ",
+        "author": "Metametrica"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/4XmdsCNc7Jg/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/jFBM8D7uxo8/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ ДЕБАТЫ СТАСА И КОМОЛОВА №1",
@@ -1612,29 +1618,35 @@
     "publishedAt": "2024-11-27",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=jFBM8D7uxo8",
+        "title": "СТАС ВАСИЛЬЕВ ПРОТИВ ОЛЕГА КОМОЛОВА: ВОЙНА И МИР, КОММУНИЗМ И ФАШИЗМ, ОЛИГАРХИ И ПАТРИОТЫ",
+        "author": "Metametrica"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/vQJ_X9bNK-0/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/jFBM8D7uxo8/hqdefault.jpg"
   },
   {
     "title": "FROSTPUNK: КАК ОСТАТЬСЯ ЧЕЛОВЕКОМ | РЕАКЦИЯ НА ПОБЕДИТЕЛЬ",
     "url": "https://www.youtube.com/watch?v=Yf_S5auh9iM",
     "publishedAt": "2024-11-23",
-    "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/vQJ_X9bNK-0/hqdefault.jpg"
+    "video": [
+      {
+        "url": "https://www.youtube.com/watch?v=9VLYDv7zya4",
+        "title": "Frostpunk: Как остаться человеком // НЕУЧПОП #3",
+        "author": "ПОБЕДИТЕЛЬ"
+      }
+    ],
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/9VLYDv7zya4/hqdefault.jpg"
   },
   {
     "title": "СТРОИМ СОЦИАЛИЗМ НА ПРАКТИКЕ | W&R:SOVREP №1",
     "url": "https://www.youtube.com/watch?v=C3Da8JfQdvM",
     "publishedAt": "2024-11-23",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/vQJ_X9bNK-0/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/C3Da8JfQdvM/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ СПЕЦОПЕРАЦИЮ ПО ОСВОБОЖДЕНИЮ ПОЛЬШИ  | РЕАКЦИЯ НА MYGAP",
@@ -1642,21 +1654,21 @@
     "publishedAt": "2024-11-20",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=7NunPzCI3WM",
+        "title": "Спецоперация по освобождению Польши",
+        "author": "MyGap"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/VPZ2c5vzzoA/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/7NunPzCI3WM/hqdefault.jpg"
   },
   {
     "title": "ШАХМАТНЫЙ СТРИМ | НОЯБРЬ 2024",
     "url": "https://www.youtube.com/watch?v=yM0cPnIwW60",
     "publishedAt": "2024-11-19",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/VPZ2c5vzzoA/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/yM0cPnIwW60/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ, КАК АНИМЕ СТУДИЯ ЭКСПЛУАТИРОВАЛА СВОИХ СОТРУДНИКОВ | РЕАКЦИЯ НА MOONLIGHTER",
@@ -1664,21 +1676,21 @@
     "publishedAt": "2024-11-12",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=D53r98pnJ80",
+        "title": "Магическая Битва: Сибуя - КРАХ СТУДИИ MAPPA",
+        "author": "Moonlighter"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/P55hHVk59C0/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/D53r98pnJ80/hqdefault.jpg"
   },
   {
     "title": "ХЭЛЛОУИНСКИЙ ИГРОВОЙ СТРИМ 2024: СОБИРАЕМ ЛЕНИНА В SLENDER THE ARRIVAL №1",
     "url": "https://www.youtube.com/watch?v=pzk7OlRC1a4",
     "publishedAt": "2024-10-31",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/P55hHVk59C0/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/pzk7OlRC1a4/hqdefault.jpg"
   },
   {
     "title": "ЛЕНИН ГРИБ: СМОТРИМ ПЕРЕДАЧУ 1991 ГОДА",
@@ -1686,13 +1698,13 @@
     "publishedAt": "2024-10-30",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=ZAakj0PolSI",
+        "title": "Ленин - гриб (1991)",
+        "author": "Ultras Action"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/Pek-HAXcFVo/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/ZAakj0PolSI/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ РОЛИК ЕЖА О ФОРМАЦИОННОМ ПОДХОДЕ №3",
@@ -1700,12 +1712,12 @@
     "publishedAt": "2024-10-27",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=u-Np45PtklM",
+        "title": "Карл Маркс против истории ИЛИ Почему Формационный подход не работает",
+        "author": "Мудрый Еж"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/9c-9MbBU--o/hqdefault.jpg"
   },
   {
@@ -1714,12 +1726,12 @@
     "publishedAt": "2024-10-25",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=u-Np45PtklM",
+        "title": "Карл Маркс против истории ИЛИ Почему Формационный подход не работает",
+        "author": "Мудрый Еж"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/1l-evk1Xv20/hqdefault.jpg"
   },
   {
@@ -1728,12 +1740,12 @@
     "publishedAt": "2024-10-24",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=u-Np45PtklM",
+        "title": "Карл Маркс против истории ИЛИ Почему Формационный подход не работает",
+        "author": "Мудрый Еж"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/uNrYssBDVwE/hqdefault.jpg"
   },
   {
@@ -1742,13 +1754,13 @@
     "publishedAt": "2024-10-23",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=Kk0gMw-kjo8",
+        "title": "Почему коммунизм не работает",
+        "author": "Простая экономика"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/ZWXfFEE-pfA/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/Kk0gMw-kjo8/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ ВИДЕО ФАЙБА О КОРЕЯХ",
@@ -1756,20 +1768,20 @@
     "publishedAt": "2024-10-22",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=rwOrm2Z8z8c",
+        "title": "Почему Южная Корея так похожа на КНДР | ФАЙБ",
+        "author": "Файб"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/1mgqcutiVf4/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/rwOrm2Z8z8c/hqdefault.jpg"
   },
   {
     "title": "БЛАГОДАРСТВЕННЫЙ СТРИМ",
     "url": "https://www.youtube.com/watch?v=8SCHxxFCeAo",
     "publishedAt": "2024-10-19",
     "video": [],
-    "type": "other",
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/1mgqcutiVf4/hqdefault.jpg"
   },
   {
@@ -1778,13 +1790,18 @@
     "publishedAt": "2024-10-17",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=P74kAm33QKc",
+        "title": "Ленин не Ульянов Революция фальсификация истории",
+        "author": "shou2012"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=n20KYqzPCfg",
+        "title": "МАКАРЕНКО: Как перевоспитать преступника? / Педагогическая поэма // СМЫСЛ.doc",
+        "author": "СМЫСЛ. doc"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/ayPJjCjSGpk/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/n20KYqzPCfg/hqdefault.jpg"
   },
   {
     "title": "ОПЯТЬ ПРО КАТЫНЬ",
@@ -1792,13 +1809,13 @@
     "publishedAt": "2024-10-16",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=C399p6lERUo",
+        "title": "Ковёр разбирает глупости Тубуса про Катынь",
+        "author": "Режем Ковёр, пилим Дока, смакуем Вато"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/2xu5nL06zTk/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/C399p6lERUo/hqdefault.jpg"
   },
   {
     "title": "ИЗ ОТДЕЛЕНИЯ В ОТДЕЛЕНИЕ: СМОТРИМ РОЛИК (b)ЛЯДОВА ПРО КУБУ",
@@ -1806,37 +1823,37 @@
     "publishedAt": "2024-10-15",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=8kNyectr37s",
+        "title": "Куба: Кровавый диктатор и кровавая революция / Как люди Живут",
+        "author": "The Люди"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/6LwnNh_mst8/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/8kNyectr37s/hqdefault.jpg"
   },
   {
     "title": "ИГРАЕМ В PAPERS, PLEASE! | СТРИМ 3",
     "url": "https://www.youtube.com/watch?v=b8oTpOyQzuI",
     "publishedAt": "2024-10-02",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/6LwnNh_mst8/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/b8oTpOyQzuI/hqdefault.jpg"
   },
   {
     "title": "ИГРАЕМ В PAPERS, PLEASE! | СТРИМ 2",
     "url": "https://www.youtube.com/watch?v=8362PyBjOPU",
     "publishedAt": "2024-10-01",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/6LwnNh_mst8/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/8362PyBjOPU/hqdefault.jpg"
   },
   {
     "title": "ИГРАЕМ В PAPERS, PLEASE! | СТРИМ 1",
     "url": "https://www.youtube.com/watch?v=X9UVxBW5y0g",
     "publishedAt": "2024-09-30",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/6LwnNh_mst8/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/X9UVxBW5y0g/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ СТАСА АЙ КАК ПРОСТО И ЕГО ПУТЕШЕСТВИЕ НА ДОНБАСС",
@@ -1844,13 +1861,13 @@
     "publishedAt": "2024-09-27",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://vk.com/video-50883936_456242013",
+        "title": "ДОНБАССКИЙ ДНЕВНИК. КАК Я ПОБЫВАЛ НА ВОЙНЕ (Документальный фильм 2022)",
+        "author": "Стас Ай, Как Просто!"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/I5QBxIe3oqY/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://sun1-95.userapi.com/C5qLPP5Wo4SoryujtI_3x1CklT5jNXnfC0l34A/IWbNAidXoyY.jpg"
   },
   {
     "title": "ПЕРЕСТРОЙКА И ЖИРИНОВСКИЙ 2",
@@ -1858,12 +1875,17 @@
     "publishedAt": "2024-09-26",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=ChLiMJRU1Tc",
+        "title": "Непрошедшее время. Часть I: Пробуждение",
+        "author": "Непрошедшее время"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=odHpEjH1Zn8",
+        "title": "Жириновский - выступление длиною в жизнь",
+        "author": "ПостРоссия"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/l5s3SdCHV9k/hqdefault.jpg"
   },
   {
@@ -1872,12 +1894,12 @@
     "publishedAt": "2024-09-26",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=ChLiMJRU1Tc",
+        "title": "Непрошедшее время. Часть I: Пробуждение",
+        "author": "Непрошедшее время"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/s5hzucA-Tug/hqdefault.jpg"
   },
   {
@@ -1886,21 +1908,26 @@
     "publishedAt": "2024-09-21",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=TPpmcmjx1vQ",
+        "title": "История НЭП",
+        "author": "Левое полушарие Экстраверта"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=qJCPauM1aSY",
+        "title": "Ленин | Кому установлен памятник на вашей площади? @Max_Katz",
+        "author": "Максим Кац"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/EPGZAyMrqug/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/TPpmcmjx1vQ/hqdefault.jpg"
   },
   {
     "title": "ПЕРЕНОСИМ ПРОСМОТР \"ОВОДА\"",
     "url": "https://www.youtube.com/watch?v=kN9GnDV01Vo",
     "publishedAt": "2024-09-21",
     "video": [],
-    "type": "other",
-    "thumbnail": "https://img.youtube.com/vi/EPGZAyMrqug/hqdefault.jpg"
+    "type": "другое",
+    "thumbnail": "https://img.youtube.com/vi/kN9GnDV01Vo/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ ИНТЕРВЬЮ СОБЧАКА",
@@ -1908,12 +1935,12 @@
     "publishedAt": "2024-09-20",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=JkmP4mZnDIA",
+        "title": "Без ретуши (РТР, 1992) – Анатолий Собчак",
+        "author": "tvlibrary"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/ZeSgdx9Vz0k/hqdefault.jpg"
   },
   {
@@ -1922,13 +1949,13 @@
     "publishedAt": "2024-09-20",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=N2kEMc2g8BQ",
+        "title": "Психология доноса: как атмосфера всеобщей паранойи стала в СССР нормой",
+        "author": "ПостРоссия"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/LBOXxGKh3kY/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/N2kEMc2g8BQ/hqdefault.jpg"
   },
   {
     "title": "ПОГОВОРИМ О РОДЕЗИИ (попытка №3)",
@@ -1936,41 +1963,13 @@
     "publishedAt": "2024-09-18",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=EjOf0UbDwDA",
+        "title": "СТРАНА, БРОСИВШАЯ ВЫЗОВ ВСЕМУ МИРУ | Родезия",
+        "author": "crouzz"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/xknKgOLTdeM/hqdefault.jpg"
-  },
-  {
-    "title": "ПОГОВОРИМ О РОДЕЗИИ (попытка №2)",
-    "url": "https://www.youtube.com/watch?v=3XYJTGpon9Q",
-    "publishedAt": "2024-09-18",
-    "video": [
-      {
-        "url": "",
-        "title": "",
-        "author": ""
-      }
-    ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/3XYJTGpon9Q/hqdefault.jpg"
-  },
-  {
-    "title": "ПОГОВОРИМ О РОДЕЗИИ",
-    "url": "https://www.youtube.com/watch?v=R2u0i_SBdz4",
-    "publishedAt": "2024-09-18",
-    "video": [
-      {
-        "url": "",
-        "title": "",
-        "author": ""
-      }
-    ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/R2u0i_SBdz4/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/EjOf0UbDwDA/hqdefault.jpg"
   },
   {
     "title": "НЕКАЯ \"ГОЛАЯ ВЕЧЕРИНКА\" В НЕКОЙ НАУКЕ - РЕАКЦИЯ НА \"АЛЕКСАНДРА ПАНЧИНА\"",
@@ -1978,13 +1977,13 @@
     "publishedAt": "2024-09-14",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=EVBwYFQwPaU",
+        "title": "Голая вечеринка в Российской Науке",
+        "author": "Александр Панчин"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/tL7d22CXfgA/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/EVBwYFQwPaU/hqdefault.jpg"
   },
   {
     "title": "О БРЕЖНЕВЕ - РАССКАЗЫВАЕТ РОСОВ №2",
@@ -1992,12 +1991,12 @@
     "publishedAt": "2024-09-12",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=PLMSU0EKJIQ",
+        "title": "Застой, коррупция, нищета, алкоголизация и дефицит | Как Брежнев развалил Советский Союз",
+        "author": "Гроза / Николай Росов"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/zihiVBk7748/hqdefault.jpg"
   },
   {
@@ -2006,12 +2005,12 @@
     "publishedAt": "2024-09-11",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=PLMSU0EKJIQ",
+        "title": "Застой, коррупция, нищета, алкоголизация и дефицит | Как Брежнев развалил Советский Союз",
+        "author": "Гроза / Николай Росов"
       }
     ],
-    "type": "video",
+    "type": "реакции",
     "thumbnail": "https://img.youtube.com/vi/a2K6qKk4MTY/hqdefault.jpg"
   },
   {
@@ -2020,13 +2019,13 @@
     "publishedAt": "2024-09-07",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=q7oWjpH2CUY",
+        "title": "Историкам здесь просто | НЕЧИСТАЯ СИЛА | Aleks_Ham",
+        "author": "Видим Как Продают Билеты..."
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/nctBiO-Gsdk/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/q7oWjpH2CUY/hqdefault.jpg"
   },
   {
     "title": "ИСТОРИКАМ ЗДЕСЬ НЕ МЕСТО: РЕАКЦИЯ №2",
@@ -2034,13 +2033,13 @@
     "publishedAt": "2024-09-06",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=q7oWjpH2CUY",
+        "title": "Историкам здесь просто | НЕЧИСТАЯ СИЛА | Aleks_Ham",
+        "author": "Видим Как Продают Билеты..."
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/H39y90EKoUo/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/q7oWjpH2CUY/hqdefault.jpg"
   },
   {
     "title": "ИСТОРИКАМ ЗДЕСЬ НЕ МЕСТО: РЕАКЦИЯ",
@@ -2048,13 +2047,13 @@
     "publishedAt": "2024-09-05",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=q7oWjpH2CUY",
+        "title": "Историкам здесь просто | НЕЧИСТАЯ СИЛА | Aleks_Ham",
+        "author": "Видим Как Продают Билеты..."
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/o-5Ts2Z7_Qs/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/q7oWjpH2CUY/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ \"crouzz\": ЧТО ЖЕ ТАКОЕ ФАШИЗМ?",
@@ -2062,21 +2061,21 @@
     "publishedAt": "2024-09-04",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=sc9gYUTq8NI",
+        "title": "ЧТО ТАКОЕ ФАШИЗМ? | Научное определение фашизма",
+        "author": "crouzz"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/7PM86ZGbxkU/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/sc9gYUTq8NI/hqdefault.jpg"
   },
   {
     "title": "КАКИЕ ШАХМАТЫ? | ИГРОВОЙ СТРИМ №2",
     "url": "https://www.youtube.com/watch?v=ZXZI-DHg5sc",
     "publishedAt": "2024-08-31",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/7PM86ZGbxkU/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/ZXZI-DHg5sc/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ \"ФАЙБ\": ПАССАЖ О ПАНЕЛЬКАХ",
@@ -2084,13 +2083,13 @@
     "publishedAt": "2024-08-30",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=7gd7HBJJxGQ",
+        "title": "ПАНЕЛЬКИ. Кем нас сделали многоэтажки? | ФАЙБ",
+        "author": "Файб"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/frhf6W0Blkg/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/7gd7HBJJxGQ/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ \"ТЕОРИЯ ВСЕГО\": LE FINALE О СТАЛИНЕ",
@@ -2098,40 +2097,34 @@
     "publishedAt": "2024-08-29",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=Woa3KXTvDDw",
+        "title": "Сталинская индустриализация: великие достижения, ГУЛАГ и репрессии / История СССР | Теория Всего",
+        "author": "Теория Всего"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/cb9Sg65XHEs/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/Woa3KXTvDDw/hqdefault.jpg"
   },
   {
     "title": "СНОВА \"ПРОСТАЯ ЭКОНОМИКА\" И СНОВА ПРО ГЕРМАНИЮ",
     "url": "https://www.youtube.com/watch?v=TYjEdZv2tD8",
-    "publishedAt": "2024-08-25",
+    "publishedAt": "2024-08-26",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=a3SYA07t_1c",
+        "title": "Почему Германия до сих пор разделена?",
+        "author": "Простая экономика"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/TYjEdZv2tD8/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/a3SYA07t_1c/hqdefault.jpg"
   },
   {
     "title": "ГРИГОРИЙ БЕДНОВ: О САФ И СТУДЕНЧЕСКИХ ПРОФСОЮЗАХ",
     "url": "https://www.youtube.com/watch?v=zmnn7mHIlhk",
-    "publishedAt": "2024-08-26",
-    "video": [
-      {
-        "url": "",
-        "title": "",
-        "author": ""
-      }
-    ],
-    "type": "video",
+    "publishedAt": "2024-08-25",
+    "video": [],
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/zmnn7mHIlhk/hqdefault.jpg"
   },
   {
@@ -2140,13 +2133,13 @@
     "publishedAt": "2024-08-24",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=lX4_0NCjqzI",
+        "title": "Почему развалился Советский Союз [БЕЗ КОНСПИРОЛОГИИ]",
+        "author": "Простая экономика"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/mlxF96eJMHw/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/lX4_0NCjqzI/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ ВИДЕО REDROOM ПРО \"БОЛЬШОЙ СКАЧОК\" В КНР",
@@ -2154,21 +2147,21 @@
     "publishedAt": "2024-08-24",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=anfdsfT7VY0",
+        "title": "Большой скачок. Война с воробьями. Голод. (история Китая) // ЛИМБ 57",
+        "author": "Redroom"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/Dk-TXMycynE/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/anfdsfT7VY0/hqdefault.jpg"
   },
   {
     "title": "БОЛЬШЕ НЕ СМОТРИМ \"ПОСЛЕЗАВТРА\": ИГРАЕМ В CRISIS IN THE KREMLIN",
     "url": "https://www.youtube.com/watch?v=BiZfpWBXYt4",
     "publishedAt": "2024-08-22",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/Dk-TXMycynE/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/BiZfpWBXYt4/hqdefault.jpg"
   },
   {
     "title": "БОЛЬШЕ НЕ СМОТРИМ \"ПОСЛЕЗАВТРА\"",
@@ -2176,13 +2169,13 @@
     "publishedAt": "2024-08-23",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=qayPgWCqsBA",
+        "title": "Германия. Кто делает её успешной? @posle_zavtra",
+        "author": "Послезавтра"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/bkC-fwH6ceg/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/qayPgWCqsBA/hqdefault.jpg"
   },
   {
     "title": "REDROOM: АПОФЕОЗ АНГАЖИРОВАННОГО НАУЧПОПА",
@@ -2190,13 +2183,13 @@
     "publishedAt": "2024-08-21",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=CInZKDm69ho",
+        "title": "Разделение Германии на ГДР и ФРГ. Берлинская стена // Redroom",
+        "author": "Redroom"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/6CAeWU112wk/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/CInZKDm69ho/hqdefault.jpg"
   },
   {
     "title": "МИНАЕВ: ОЦЕНИВАЕМ КОМПЕТЕНЦИЮ ПО РОЛИКУ О БЕРЛИНСКОЙ СТЕНЕ",
@@ -2204,13 +2197,13 @@
     "publishedAt": "2024-08-19",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=QX8pQ2Q5IYY",
+        "title": "Берлинская стена / Разделение на ГДР и ФРГ / Уроки истории / Минаев",
+        "author": "МИНАЕВ LIVE"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/ki1sDSLmK4s/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/QX8pQ2Q5IYY/hqdefault.jpg"
   },
   {
     "title": "АТЛАНТЫ ПРО ГДР | \"Я НЕ ЭКСПЕРТ\"",
@@ -2218,29 +2211,29 @@
     "publishedAt": "2024-08-18",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=Z4ybPmYKQpw",
+        "title": "Почему Германия разделена? (Часть 1)",
+        "author": "Егор Максимов"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/TeHhwo_x6Oo/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/Z4ybPmYKQpw/hqdefault.jpg"
   },
   {
     "title": "ИГРАЕМ В UNDYING SYMPHONY [БЕССМЕРТНАЯ СИМФОНИЯ]",
     "url": "https://www.youtube.com/watch?v=Ma5KEiP9cZg",
     "publishedAt": "2024-08-04",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/TeHhwo_x6Oo/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/Ma5KEiP9cZg/hqdefault.jpg"
   },
   {
     "title": "ПЕРВЫЙ ИГРОВОЙ СТРИМ",
     "url": "https://www.youtube.com/watch?v=65MXYNoZ7jI",
     "publishedAt": "2024-07-28",
     "video": [],
-    "type": "game",
-    "thumbnail": "https://img.youtube.com/vi/TeHhwo_x6Oo/hqdefault.jpg"
+    "type": "игры",
+    "thumbnail": "https://img.youtube.com/vi/65MXYNoZ7jI/hqdefault.jpg"
   },
   {
     "title": "СМОТРИМ ИНТЕРВЬЮ ДУГИНА ТАКЕРУ КАРЛСОНУ",
@@ -2248,21 +2241,27 @@
     "publishedAt": "2024-04-30",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=GIULmTprQ6o",
+        "title": "Klaus Schwab, Transgenderism, and AI | Russian Philosopher Aleksandr Dugin",
+        "author": "Такер Карлсон"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/Eo5hsEetSTQ/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/GIULmTprQ6o/hqdefault.jpg"
   },
   {
     "title": "АНТИФАШИСТСКИЙ СТРИМ: ПОГОВОРИМ ПРО СТУДЕНЧЕСКОЕ ДВИЖЕНИЕ",
-    "url": "https://www.youtube.com/watch?v=BBit6jpGYJE",
     "publishedAt": "2024-04-20",
-    "video": [],
-    "type": "other",
-    "thumbnail": "https://img.youtube.com/vi/Eo5hsEetSTQ/hqdefault.jpg"
+    "url": "https://www.youtube.com/watch?v=BBit6jpGYJE",
+    "video": [
+      {
+        "url": "https://www.youtube.com/watch?v=YrmbSMJxhds",
+        "title": "Студенты РГГУ — против кумира Путина. Мартынов и Кашин про философа Ильина",
+        "author": "Ходорковский LIVE"
+      }
+    ],
+    "type": "другое",
+    "thumbnail": "https://img.youtube.com/vi/YrmbSMJxhds/hqdefault.jpg"
   },
   {
     "title": "АНТИФАШИСТСКИЙ СТРИМ: ПОГОВОРИМ ПРО СТУДЕНЧЕСКОЕ ДВИЖЕНИЕ",
@@ -2270,13 +2269,13 @@
     "publishedAt": "2024-04-20",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=Eo5hsEetSTQ",
+        "title": "ПРОТЕСТ СТУДЕНТОВ РГГУ ПРОТИВ ЦЕНТРА ДУГИНА ИМЕНИ ИЛЬИНА / ДАРЬЯ БАГИНА, ОЛЬГА СЕРИКОВА",
+        "author": "Рабкор"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/89qVeKY_dNs/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/Eo5hsEetSTQ/hqdefault.jpg"
   },
   {
     "title": "МАКСИМ КАЦ И АЛЕКСЕЙ ШЕВЦОВ СВОДЯТ НАС С УМА",
@@ -2284,13 +2283,18 @@
     "publishedAt": "2024-04-13",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=_uPN6PQC-z8",
+        "title": "Смерть Сталина | Как делили власть наследники диктатора #минутавминуту (English subtitles) @Max_Katz",
+        "author": "Максим Кац"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tYkBgu2nN-Q",
+        "title": "СВОБОДУ ПАЛЕСТИНЕ",
+        "author": "Алексей Шевцов"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/6AyLOTkjApA/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/_uPN6PQC-z8/hqdefault.jpg"
   },
   {
     "title": "ИНТЕРВЬЮ ПУТИНА КАРЛСОНУ: СПОКОЙСТВИЕ, ТОЛЬКО СПОКОЙСТВИЕ",
@@ -2298,13 +2302,13 @@
     "publishedAt": "2024-02-09",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=fOCWBhuDdDo",
+        "title": "Эксклюзив: Такер Карлсон берет интервью у Владимира Путина.",
+        "author": "Такер Карлсон"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/dunTMGkXd0Q/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/fOCWBhuDdDo/hqdefault.jpg"
   },
   {
     "title": "\"НЕОСПОРИМЫЙ\" ШЕДЕВР ШТЕФАНОВА | Смотрим: \"Как воровали при Сталине? Масштаб, методы, причины\"",
@@ -2312,20 +2316,20 @@
     "publishedAt": "2024-01-14",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=YQCcFe5tk_o",
+        "title": "Как воровали при Сталине? Масштаб, методы, причины",
+        "author": "Александр Штефанов"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/AsOhoXMrI6s/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/YQCcFe5tk_o/hqdefault.jpg"
   },
   {
     "title": "СОВМЕСТНЫЙ СТРИМ С \"ОСВОБОЖДЕНИЕМ ТРУДА\"",
     "url": "https://www.youtube.com/watch?v=nnrkrL-9Iyk",
     "publishedAt": "2023-12-18",
     "video": [],
-    "type": "other",
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/AsOhoXMrI6s/hqdefault.jpg"
   },
   {
@@ -2334,13 +2338,13 @@
     "publishedAt": "2023-10-07",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://rutube.ru/video/758ef2886c207027807df3e47d5eb120/?ysclid=mnhcszgt9z795619370",
+        "title": "ДИСКУССИЮ НЕ ВЫВЕЗ – ЭКОНОМИСТ ОЛЕГ КОМОЛОВ О ТОМ КТО ЗАРАБАТЫВАЕТ НА ВОЙНЕ",
+        "author": "Стас Ай, Как Просто!"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/2sHuWWqW59Y/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://pic.rtbcdn.ru/video/7b/76/7b761a0e3145fc34bdd09426b2aa5ea7.jpg"
   },
   {
     "title": "СМОТРИМ ДИСКУССИЮ ВАСИЛЬЕВА И КОМОЛОВА, ОТВЕЧАЕМ НА ВОПРОСЫ",
@@ -2348,13 +2352,13 @@
     "publishedAt": "2023-10-02",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://rutube.ru/video/758ef2886c207027807df3e47d5eb120/?ysclid=mnhcszgt9z795619370",
+        "title": "ДИСКУССИЮ НЕ ВЫВЕЗ – ЭКОНОМИСТ ОЛЕГ КОМОЛОВ О ТОМ КТО ЗАРАБАТЫВАЕТ НА ВОЙНЕ",
+        "author": "Стас Ай, Как Просто!"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/aWwDhoeWuvg/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://pic.rtbcdn.ru/video/7b/76/7b761a0e3145fc34bdd09426b2aa5ea7.jpg"
   },
   {
     "title": "Смотрим государственный документальный фильм \"Борис Ельцин. Отступать нельзя\" и обсуждаем",
@@ -2362,34 +2366,28 @@
     "publishedAt": "2023-08-20",
     "video": [
       {
-        "url": "",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=BkHQM5ejgbw",
+        "title": "«Борис Ельцин. Отступать нельзя». Документальный фильм",
+        "author": "Док Кино"
       }
     ],
-    "type": "video",
-    "thumbnail": "https://img.youtube.com/vi/MNNmCatlzgU/hqdefault.jpg"
+    "type": "реакции",
+    "thumbnail": "https://img.youtube.com/vi/BkHQM5ejgbw/hqdefault.jpg"
   },
   {
     "title": "СТРИМ-ИНТЕРВЬЮ С ЛИДЕРОМ РОК-ГРУППЫ \"STRASSEN ENDE\"",
     "url": "https://www.youtube.com/watch?v=JHF_kZXsR0w",
     "publishedAt": "2023-07-30",
     "video": [],
-    "type": "other",
-    "thumbnail": "https://img.youtube.com/vi/MNNmCatlzgU/hqdefault.jpg"
+    "type": "другое",
+    "thumbnail": "https://img.youtube.com/vi/JHF_kZXsR0w/hqdefault.jpg"
   },
   {
     "title": "РАЗБИРАЕМ ЛЕВЫХ И ПРОФСОЮЗЫ ИЗ ФРАНЦИИ, ОТВЕЧАЕМ НА ВОПРОСЫ | СОВЕТСКИЙ РЕВАНШ | ПРЯМАЯ ТРАНСЛЯЦИЯ",
     "url": "https://www.youtube.com/watch?v=HHSO_kJi9bo",
     "publishedAt": "2023-07-08",
-    "video": [
-      {
-        "url": "",
-        "title": "",
-        "author": ""
-      }
-    ],
-    "type": "video",
+    "video": [],
+    "type": "другое",
     "thumbnail": "https://img.youtube.com/vi/HHSO_kJi9bo/hqdefault.jpg"
   },
   {
@@ -2397,7 +2395,7 @@
     "url": "https://www.youtube.com/watch?v=WhPnzVu26fQ",
     "publishedAt": "2023-06-17",
     "video": [],
-    "type": "other",
-    "thumbnail": "https://img.youtube.com/vi/HHSO_kJi9bo/hqdefault.jpg"
+    "type": "другое",
+    "thumbnail": "https://img.youtube.com/vi/WhPnzVu26fQ/hqdefault.jpg"
   }
 ]
