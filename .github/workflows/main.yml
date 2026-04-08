@@ -1,0 +1,55 @@
+name: Update streams data
+
+on:
+  workflow_dispatch: # кнопка
+  schedule:
+    - cron: "0 13 * * 1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install yt-dlp
+
+      - name: Run worker
+        id: worker
+        run: |
+          python worker/update.py
+        continue-on-error: true
+
+      - name: Check if updates exist
+        id: check
+        run: |
+          if [ "${{ steps.worker.outcome }}" = "failure" ]; then
+            echo "has_updates=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_updates=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Stop if no updates
+        if: steps.check.outputs.has_updates == 'false'
+        run: echo "No new streams found"
+
+      - name: Create Pull Request
+        if: steps.check.outputs.has_updates == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: update-streams
+          commit-message: "Update streams data"
+          title: "Автообновление стримов"
+          body: "Добавлены новые стримы автоматически"
+          base: main
