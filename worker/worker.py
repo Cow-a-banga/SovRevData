@@ -5,8 +5,13 @@ import sys
 import re
 from datetime import datetime
 
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = BASE_DIR / "data.json"
+
 def get_streams_from_file() -> list:
-    with open("../data.json", "r", encoding="utf-8") as f:
+    with open(DATA_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def extract_original_link(description):
@@ -89,7 +94,7 @@ def main():
         sys.exit(0)
 
     streams = videos + streams
-    with open("../data.json", "w", encoding="utf-8") as f:
+    with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(streams, f, ensure_ascii=False, indent=2)
 
     sys.exit(1)
