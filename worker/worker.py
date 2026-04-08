@@ -10,6 +10,17 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_PATH = BASE_DIR / "data.json"
 
+ydl_flat_opts = {
+    'extract_flat': True,
+    'skip_download': True,
+    'dump_single_json': True
+}
+
+ydl_opts = {
+    'skip_download': True,
+    'dump_single_json': True
+}
+
 def get_streams_from_file() -> list:
     with open(DATA_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -26,28 +37,32 @@ def extract_original_link(description):
 def get_stream_info(entry):
     url = f"https://www.youtube.com/watch?v={entry['id']}"
     video_url = extract_original_link(entry['description'])
-    with yt_dlp.YoutubeDL({'quiet': True}) as ydl:
+    data = {
+        'title': entry['title'],
+        'url': f"https://www.youtube.com/watch?v={entry['id']}",
+        'type': 'реакции',
+        'thumbnail': f"https://img.youtube.com/vi/{entry['id']}/hqdefault.jpg",
+        'video': [{
+            'url': video_url,
+            'title': '',
+            'author': ''
+        }],
+        'publishedAt': ''
+    }
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(url, download=False)
-        upload_date_str = info.get('upload_date', '')
-        if upload_date_str:
-            published_at = datetime.strptime(upload_date_str, '%Y%m%d').strftime('%Y-%m-%d')
-        else:
-            published_at = ''
+    upload_date_str = info.get('upload_date', '')
+    if upload_date_str:
+        published_at = datetime.strptime(upload_date_str, '%Y%m%d').strftime('%Y-%m-%d')
+    else:
+        published_at = ''
 
-        data = {
-            'title': entry['title'],
-            'url': f"https://www.youtube.com/watch?v={entry['id']}",
-            'publishedAt': published_at,
-            'type': 'video',
-            'thumbnail': f"https://img.youtube.com/vi/{entry['id']}/hqdefault.jpg",
-            'video': []
-        }
+    data['publishedAt'] = published_at
 
+    try:
         if video_url is not None:
-            try:
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 video_info = ydl.extract_info(video_url, download=False)
-            except Exception:
-                return data
 
             author = (
                     video_info.get('uploader') or
@@ -62,7 +77,9 @@ def get_stream_info(entry):
             }]
 
             data['thumbnail'] = f"https://img.youtube.com/vi/{video_info['id']}/hqdefault.jpg"
-
+    except Exception as e:
+        print(f"⚠️ Не удалось извлечь видео {video_url}: {e}")
+    finally:
         return data
 
 def main():
@@ -73,13 +90,7 @@ def main():
 
     channel_url = "https://www.youtube.com/@sovrev/streams"
 
-    ydl_opts = {
-        'extract_flat': True,
-        'skip_download': True,
-        'dump_single_json': True
-    }
-
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+    with yt_dlp.YoutubeDL(ydl_flat_opts) as ydl:
         info = ydl.extract_info(channel_url, download=False)
 
     videos = []
