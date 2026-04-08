@@ -28,7 +28,7 @@ jobs:
       - name: Run worker
         id: worker
         run: |
-          python worker/update.py
+          python worker/worker.py
         continue-on-error: true
 
       - name: Check if updates exist
