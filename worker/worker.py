@@ -19,7 +19,7 @@ def extract_original_link(description):
     return None
 
 def get_stream_info(entry):
-    url = f'https://www.youtube.com/watch?v={entry['id']}'
+    url = f"https://www.youtube.com/watch?v={entry['id']}"
     video_url = extract_original_link(entry['description'])
     with yt_dlp.YoutubeDL({'quiet': True}) as ydl:
         info = ydl.extract_info(url, download=False)
