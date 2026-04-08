@@ -52,4 +52,4 @@ jobs:
           commit-message: "Update streams data"
           title: "Автообновление стримов"
           body: "Добавлены новые стримы автоматически"
-          base: main
+          base: master
