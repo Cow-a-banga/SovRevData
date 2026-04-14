@@ -45,3 +45,4 @@ jobs:
           title: "${{steps.date.outputs.time}} | Автообновление стримов"
           base: master
           token: ${{ secrets.GH_PAT_TOKEN }}
+          delete-branch: true
