@@ -1,6 +1,7 @@
 import yt_dlp
 import json
 import os
+import requests
 
 import re
 from datetime import datetime
@@ -9,6 +10,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_PATH = BASE_DIR / "data.json"
+OUTPUT_PATH = BASE_DIR / "images"
 ON_GH = os.environ.get("GITHUB_ACTIONS") == "true"
 
 ydl_flat_opts = {
@@ -65,6 +67,18 @@ def enrich_additional_info(url, video_url, data):
 
         data['thumbnail'] = f"https://img.youtube.com/vi/{video_info['id']}/hqdefault.jpg"
 
+def load_image(url, id):
+    response = requests.get(url)
+
+    ext = url.split(".")[-1].split("?")[0]
+
+    filename = f"{id}.{ext}"
+
+    with open(os.path.join(OUTPUT_PATH, filename), "wb") as f:
+        f.write(response.content)
+
+    print(f"Изображение: {filename}")
+
 def get_stream_info(entry):
     url = f"https://www.youtube.com/watch?v={entry['id']}"
     video_url = extract_original_link(entry['description'])
@@ -72,7 +86,7 @@ def get_stream_info(entry):
         'title': entry['title'],
         'url': f"https://www.youtube.com/watch?v={entry['id']}",
         'type': 'реакции',
-        'thumbnail': f"https://img.youtube.com/vi/{entry['id']}/hqdefault.jpg",
+        'thumbnail': f"./images/{entry['id']}.jpg",
         'video': [{
             'url': video_url,
             'title': '',
