@@ -3,27 +3,27 @@
     "title": "Смотрим: «КТО ВИНОВАТ В РАЗВАЛЕ СССР? Горбачев, Ельцин, коммунизм или Запад?»",
     "url": "https://www.youtube.com/watch?v=qehWSb8MRwg",
     "type": "реакции",
-    "publishedAt": "",
+    "publishedAt": "2026-04-16",
     "video": [
       {
-        "url": "https://www.youtube.com/watch?v=Q01YbGh-hkc&list=PLtIzXPHal2WPPF1cbKVlZltQ9i835VR72&index=6",
-        "title": "",
-        "author": ""
+        "url": "https://www.youtube.com/watch?v=9AM7hEJnee0",
+        "title": "КТО ВИНОВАТ В РАЗВАЛЕ СССР? Горбачев, Ельцин, коммунизм или Запад?",
+        "author": "Роман Юнеман"
       }
     ],
-    "thumbnail": "./images/Q01YbGh-hkc.jpg",
-    "thumbnailHash": "926e4db646956c59"
+    "thumbnail": "./images/9AM7hEJnee0.jpg",
+    "thumbnailHash": "95d44aa734791b66"
   },
   {
     "title": "Смотрим: «РОЗА ЛЮКСЕМБУРГ | ПЛАМЕННЫЕ РЕВОЛЮЦИОНЕРЫ».",
     "url": "https://www.youtube.com/watch?v=d01rpxlBcUU",
     "type": "реакции",
-    "publishedAt": "",
+    "publishedAt": "2026-04-15",
     "video": [
       {
         "url": "https://www.youtube.com/watch?v=Q01YbGh-hkc&list=PLtIzXPHal2WPPF1cbKVlZltQ9i835VR72&index=6",
-        "title": "",
-        "author": ""
+        "title": "РОЗА ЛЮКСЕМБУРГ | ПЛАМЕННЫЕ РЕВОЛЮЦИОНЕРЫ",
+        "author": "Алексей Гончаров и КУЛЬТ-УРАЛ"
       }
     ],
     "thumbnail": "./images/Q01YbGh-hkc.jpg",
@@ -33,12 +33,12 @@
     "title": "Смотрим фильм «Ночь над Чили»",
     "url": "https://www.youtube.com/watch?v=hGOZ-QJLvvg",
     "type": "реакции",
-    "publishedAt": "",
+    "publishedAt": "2026-04-13",
     "video": [
       {
         "url": "https://www.youtube.com/watch?v=_CcGGBPFh1I",
-        "title": "",
-        "author": ""
+        "title": "Ночь над Чили (FullHD, драма, режиссёр Себастьян Аларкон, 1977 г.)",
+        "author": "Киноконцерн \"Мосфильм\""
       }
     ],
     "thumbnail": "./images/_CcGGBPFh1I.jpg",
