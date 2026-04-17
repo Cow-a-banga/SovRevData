@@ -1,0 +1,29 @@
+name: Notify site build
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  trigger-site:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger site build repo
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Content-Type: application/json"
+            -H "Authorization: token ${{ secrets.GH_PAT_SITE_TOKEN }}" \
+            https://api.github.com/repos/Cow-a-banga/SovRevSearch/dispatches \
+            -d '{
+              "event_type": "build-site",
+              "client_payload": {
+                "source": "streams-updater",
+                "ref": "${{ github.sha }}"
+              }
+            }'
