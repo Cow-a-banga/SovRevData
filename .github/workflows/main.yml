@@ -2,6 +2,11 @@ name: Update streams data
 
 on:
   workflow_dispatch: # кнопка
+    inputs:
+      limit:
+        description: "Сколько стримов обрабатывать"
+        required: false
+        default: "5"
   schedule:
     - cron: "0 13 * * 1"
 
@@ -28,7 +33,7 @@ jobs:
       - name: Run worker
         id: worker
         run: |
-          python worker/worker.py
+          python worker/main.py --limit ${{ github.event.inputs.limit || 5 }}
         continue-on-error: false
 
       - name: Get date
