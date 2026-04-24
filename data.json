@@ -1,5 +1,20 @@
 [
   {
+    "title": "Последний стрим?",
+    "url": "https://www.youtube.com/watch?v=bvOkV5jHyTQ",
+    "type": "реакции",
+    "publishedAt": "2026-04-23",
+    "video": [
+      {
+        "url": "https://www.youtube.com/watch?v=0HDj_VLMd-k",
+        "title": "Противостояние ГДР и ФРГ: всё ли так однозначно?",
+        "author": "Александр Штефанов"
+      }
+    ],
+    "thumbnail": "./images/f.jpg",
+    "thumbnailHash": "a5e54307bc7883c7"
+  },
+  {
     "title": "Смотрим: «КТО ВИНОВАТ В РАЗВАЛЕ СССР? Горбачев, Ельцин, коммунизм или Запад?»",
     "url": "https://www.youtube.com/watch?v=qehWSb8MRwg",
     "type": "реакции",
